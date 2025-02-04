@@ -1,6 +1,7 @@
 from src.vacancies_work import Vacancies
 
 
+
 def search_in_vacancies(vacancies_list, search_word):
     """ищет ключевые слова в файле с вакансиями и выдает отфильтрованные данные"""
 
